@@ -11,7 +11,7 @@ Project that we are going to build in this complete practice course
 - Project 2 - CONTACT US PAGE
 - Project 3 - DICE GAME
 - Project 4 - FOODY ZONE 
-- Project 5 - COMMING SOON
+- Project 5 - Uploaded
 - Project 6 - COMMING SOON
 - Project 7 - COMMING SOON
 - Project 8 - COMMING SOON
